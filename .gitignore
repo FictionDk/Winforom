@@ -1,0 +1,10 @@
+**/obj
+**/log
+**/bin/*.exe
+**/bin/*.config
+**/bin/*.pdb
+
+**/Properties
+App.config
+
+.vs
